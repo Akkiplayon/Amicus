@@ -9,4 +9,4 @@ MOBILE(APK)
 https://drive.google.com/drive/folders/1oH9xmqIb1Qtbf4i-k9lZCDNZ6E15wLhM?usp=drive_link
 
 new ver
-https://ai.studio/apps/149585cd-0daa-4307-b50c-716a4a58b643
+https://ai.studio/apps/53b6bc27-d590-4e2b-a77e-20d40588faa7
